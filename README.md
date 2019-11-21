@@ -1,1 +1,1 @@
-# x7mii.github.io
+#twitter : x7mii
