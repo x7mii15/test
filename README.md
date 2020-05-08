@@ -20,7 +20,6 @@ Depends: المتطلبات
 Conflicts: التعارضات
 
 Filename: موقع الملف
-
 Size: 
 
 MD5sum: 
