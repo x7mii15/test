@@ -7,7 +7,6 @@
 معلومات ملف Packages بالاسفل 
 
 
-
 Package: معرف الاداة 
 Version: الاصدار
 Architecture: iphoneos-arm
