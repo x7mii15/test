@@ -1,22 +1,17 @@
-Name: LittleX
-Package: com.ioscreatix.littlex11
-Description: iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11
+Package: com.cokepokes.appstoreplusplus11
+Version: 0.9.5
 Architecture: iphoneos-arm
-Section: Tweaks
-Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Icon: https://repo.packix.com/api/Packages/5a9598f992d82c1c7fa8fe59/icon/download?size=medium&hash=2
-SileoDepiction: https://repo.packix.com/api/sileo/package/com.ioscreatix.littlex/depiction
-Version: 1.3.4
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.3.1
-Filename: api/PackageVersions/5a9598f992d82c1c7fa8fe5a.deb
-Size: 27034
-MD5sum: 2621f815a2a92a9b91a9a02867a9eec7
-SHA1: 4bd3cacef1cf7b549d37bc224ae9f37fc7c7e2a2
-SHA256: 656c9973fa2251c224259b9495a4602ff363ce5aa386ac3b56570b8d83b04021
-Author: iOS Creatix
-Maintainer: iOS Creatix
-Depends: mobilesubstrate
-Installed-Size: 236
+Maintainer: x7mii	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts: com.unlimapps.uaupdatetools	
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Size: 1670732	
+MD5sum: e6e914ec0c7e9938241241a96d5c4821	
+SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
+SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2	
+Section: Tweaks	Section: Tweaks
+Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
+Name: appstore++
 
 Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
