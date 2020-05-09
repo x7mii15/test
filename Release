@@ -1,8 +1,8 @@
 
 Origin: test x7mii 
-Label: اعد كتابة  اسم السورس 
+Label: x7mii 
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Components: main
-Description: وصف السورس 
+Description: repo
