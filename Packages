@@ -1,18 +1,3 @@
-Package: com.cokepokes.appstoreplusplus
-Version: 0.9.8-9
-Architecture: iphoneos-arm
-Maintainer: x7mii 
-Depends:  firmware (>= 11.0), mobilesubstrate 
-Conflicts: com.unlimapps.uaupdatetools
-Filename: debs/	com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
-Size: 1346934 
-MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
-SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
-SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
-Section: Tweaks
-Depiction: https://x7mii.com
-Name: appstore++ 
-
 Name: LittleX
 Package: com.ioscreatix.littlex
 Description: iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11
