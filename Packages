@@ -1,5 +1,5 @@
 Name: LittleX
-Package: com.ioscreatix.littlex
+Package: com.ioscreatix.littlex11
 Description: iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11
 Architecture: iphoneos-arm
 Section: Tweaks
@@ -18,7 +18,7 @@ Maintainer: iOS Creatix
 Depends: mobilesubstrate
 Installed-Size: 236
 
-Package: com.cokepokes.appstoreplusplus
+Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
 Architecture: iphoneos-arm
 Maintainer: CokePokes
