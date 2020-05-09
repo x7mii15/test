@@ -2,9 +2,9 @@
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.8-9
 Architecture: iphoneos-arm
-Maintainer:   
-Depends:   
-Conflicts: 
+Maintainer: x7mii 
+Depends:  firmware (>= 11.0), mobilesubstrate 
+Conflicts: com.unlimapps.uaupdatetools
 Filename: debs/	com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
 Size: 1346934 
 MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
